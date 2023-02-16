@@ -1,10 +1,8 @@
 # SYS-TS-Pracc01-MyDeck
-### Project Specification: 
+
 - TypeScript
   - Practice Task 01
-### ========================================================
-### Title: 
-- MyDeck <br>
+  - Project title: <ul>MyDeck</ul>
 
 ### Description:
 A submission task where Im supposed to create a webpage using HTML, CSS and TypeScript. 
