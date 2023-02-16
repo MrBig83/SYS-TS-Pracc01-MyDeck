@@ -2,7 +2,7 @@
 
 - TypeScript
   - Practice Task 01
-  - Project title: <ul>MyDeck</ul>
+  - Project title: ***MyDeck***
 
 ### Description:
 A submission task where Im supposed to create a webpage using HTML, CSS and TypeScript. 
